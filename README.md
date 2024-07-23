@@ -6,8 +6,8 @@
   
 ## Extrnal Sources:
 
-This Project based on the (server) data provided by :
-https://jsonplaceholder.typicode.com/users
-https://jsonplaceholder.typicode.com/posts
-https://jsonplaceholder.typicode.com/todos
+This Project based on the (server) data provided by
+ https://jsonplaceholder.typicode.com/users
+ https://jsonplaceholder.typicode.com/posts
+ https://jsonplaceholder.typicode.com/todos
 
